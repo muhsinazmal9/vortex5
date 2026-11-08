@@ -2,14 +2,14 @@
 export const site = {
   name: "Vortex5",
   email: "hello@vortex5.com",
-  phone: "+1 (000) 000-0000",
-  location: "Remote · Working worldwide",
+  phone: "+8801756-688587",
+  location: "176, Islam villa, level 3, Shantibag, Dhaka, Bangladesh, 1217",
   socials: [
-    { label: "LinkedIn", href: "#" },
-    { label: "Instagram", href: "#" },
-    { label: "X", href: "#" },
-    { label: "Behance", href: "#" },
-    { label: "GitHub", href: "#" },
+    { label: "LinkedIn", href: "" },
+    { label: "Facebook", href: "https://www.facebook.com/vortex5.net" },
+    { label: "X", href: "" },
+    { label: "Behance", href: "https://www.behance.net/vortex5_creative" },
+    { label: "GitHub", href: "" },
   ],
   legal: [
     { label: "Privacy Policy", href: "#" },

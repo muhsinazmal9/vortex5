@@ -28,7 +28,7 @@ export function Footer() {
             <p className={col}>Quick links</p>
             <ul className="space-y-3">
               {site.quickLinks.map((l) => (
-                <li key={l.label}><a href={l.href} className={link}>{l.label}</a></li>
+                <li key={l.label}><a href={l.href} target="_blank" className={link} rel="noopener noreferrer">{l.label}</a></li>
               ))}
             </ul>
           </nav>

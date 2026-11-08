@@ -3,8 +3,8 @@
 import { useState } from "react";
 import { Button } from "./button";
 
-const categories = ["Web Development", "Mobile App", "UI/UX Design", "SaaS / Custom Software", "E-commerce", "Other"];
-const budgets = ["Under $1,000", "$1,000–$5,000", "$5,000–$10,000", "$10,000+", "Not sure"];
+const categories = ["Graphic Design & Printing", "Web Design & Development", "SaaS / Custom Software", "E-commerce", "Other"];
+const budgets = ["Under $1000", "$1,000–$5,000", "$5,000–$10,000", "$10,000+", "Not sure"];
 const timelines = ["ASAP", "1–3 months", "3–6 months", "6+ months", "Flexible"];
 const sources = ["Google search", "Social media", "Referral", "Portfolio / Behance", "Other"];
 
