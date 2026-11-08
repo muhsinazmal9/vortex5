@@ -25,7 +25,7 @@ export const services = [
   },
   {
     key: "graphics",
-    name: "Video Editing & Motion Graphics",
+    name: "Video Editing Motion Graphics",
     desc: "Brand identity, social creative, motion graphics and video editing that keep your story consistent.",
     tech: ["Illustrator", "Photoshop", "After Effects", "Premiere Pro"],
   },
